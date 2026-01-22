@@ -1,0 +1,1 @@
+from mainMustDhiya.wsgi import application
